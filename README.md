@@ -5,23 +5,23 @@ A digital portfolio is like an online scrapbook that showcases your skills in ac
 
 ## Responsive Navigation Bar
 
-![App Screenshot](asset/image/nav_bar.PNG)
+![App Screenshot](asset/images/nav_bar.PNG)
 
 ## Profile Pic, Skills And Experiences Section
 
-![App Screenshot](asset/image/skills.png)
+![App Screenshot](asset/images/skills.PNG)
 
 ## Projects Section
 
-![App Screenshot](asset/image/projects.png)
+![App Screenshot](asset/images/projects.PNG)
 
 ## Event Section
 
-![App Screenshot](asset/image/event.png)
+![App Screenshot](asset/images/event.PNG)
 
 ## Contact Section
 
-![App Screenshot](asset/image/contact.png)
+![App Screenshot](asset/images/contact.PNG)
 
 
 
